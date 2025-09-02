@@ -48,11 +48,11 @@ ellipse(325, 210, 100, 90);
   fill(255);
   ellipse(335, 185, 8, 8);
   
-// nose (centered between eyes)
+// nose
   fill(0);
   triangle(310, 215, 320, 215, 315, 225);
 
-  // mouth (small curve centered under eyes)
+  // mouth
   noFill();
   stroke(0);
   strokeWeight(2);
